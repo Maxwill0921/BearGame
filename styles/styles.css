@@ -1,0 +1,42 @@
+table{
+	margin:0 auto;
+	font-size:24px;
+}
+
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+	width: 70px;
+	height: 70px;
+}
+
+.bear {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.cola {
+	background: url("../images/cola.png") no-repeat center;
+	}
+
+.stone {
+	background: url("../images/stone.png") no-repeat center;
+}
+
+#score {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.poop {
+	background: url("../images/poop.png") no-repeat center;
+}
+
+.small{
+	background-size: 10px 10px;
+}
